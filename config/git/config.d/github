@@ -1,0 +1,9 @@
+# vim: syntax=gitconfig
+
+[user]
+  name = TAKEI Yuya
+  email = 853320+takei-yuya@users.noreply.github.com
+  signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF0w6LaoPYAngpF+8d+gV8q4N3ObFThCQ521vnS/Yuya
+
+[commit]
+  gpgsign = true
