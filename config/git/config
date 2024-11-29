@@ -1,8 +1,5 @@
 # vim: syntax=gitconfig
 
-[includeIf "gitdir:~/.rc/"]
-  path = ~/.config/git/config.d/github
-
 [includeIf "gitdir:~/git/takei-yuya/"]
   path = ~/.config/git/config.d/github
 
