@@ -3,5 +3,5 @@
 [includeIf "gitdir:~/git/takei-yuya/"]
   path = ~/.config/git/config.d/github
 
-[includeIf "gitdir:~/.rc"]
+[includeIf "gitdir:~/.rc/"]
   path = ~/.config/git/config.d/github
